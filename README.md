@@ -103,7 +103,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- CONTACT -->
 ## Contact
-Nirmal Mudaliar
+### Author: [Nirmal-Mudaliar](https://github.com/Nirmal-Mudaliar)
 - Mail : nirmalmudaliar22@gmail.com
 - Links : [Linktree](https://linktr.ee/NirmalMudaliar)
 
